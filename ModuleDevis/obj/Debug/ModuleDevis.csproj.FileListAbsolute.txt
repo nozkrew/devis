@@ -53,3 +53,17 @@ C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\ModuleDevis\ModuleDevis\obj\Debug\Mo
 C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\ModuleDevis\ModuleDevis\obj\Debug\ModuleDevis.feuilleDevis.resources
 C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\ModuleDevis\ModuleDevis\obj\Debug\ModuleDevis.Properties.Resources.resources
 C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\ModuleDevis\ModuleDevis\obj\Debug\ModuleDevis.csproj.GenerateResource.Cache
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\bin\Debug\ModuleDevis.exe.config
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\obj\Debug\ModuleDevis.exe
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\obj\Debug\ModuleDevis.pdb
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\bin\Debug\ModuleDevis.exe
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\bin\Debug\ModuleDevis.pdb
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\bin\Debug\DevisClasses.dll
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\bin\Debug\DevisClasses.pdb
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\obj\Debug\ModuleDevis.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\obj\Debug\ModuleDevis.Accueil.resources
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\obj\Debug\ModuleDevis.ajoutPieces.resources
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\obj\Debug\ModuleDevis.CreationDevis.resources
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\obj\Debug\ModuleDevis.feuilleDevis.resources
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\obj\Debug\ModuleDevis.Properties.Resources.resources
+C:\Users\Thomas\BTS SIO\BTS 2eme année\PPE\devis\ModuleDevis\obj\Debug\ModuleDevis.csproj.GenerateResource.Cache

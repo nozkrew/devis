@@ -8,6 +8,7 @@ namespace DevisClasses
 {
     public class client
     {
+        //Déclaration variable privée
         private int id, CP;
         private string nom, prenom, adr1, adr2, ville;
 
